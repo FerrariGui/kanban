@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423408250162",
+    "project_id": "taskapp-1e3ac",
+    "storage_bucket": "taskapp-1e3ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423408250162:android:5da7bc677fc6eaa6bebb2b",
+        "android_client_info": {
+          "package_name": "com.gui.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfOYJBYV82OaV1QMbqygg11ziurTSFYAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
